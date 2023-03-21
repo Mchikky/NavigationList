@@ -11,6 +11,7 @@
 		837A451C29C8AA360089E313 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837A451B29C8AA360089E313 /* ContentView.swift */; };
 		837A451E29C8AA390089E313 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 837A451D29C8AA390089E313 /* Assets.xcassets */; };
 		837A452129C8AA390089E313 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 837A452029C8AA390089E313 /* Preview Assets.xcassets */; };
+		837A452829C9CAE60089E313 /* AnimalDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837A452729C9CAE60089E313 /* AnimalDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		837A451B29C8AA360089E313 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		837A451D29C8AA390089E313 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		837A452029C8AA390089E313 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		837A452729C9CAE60089E313 /* AnimalDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				837A451929C8AA360089E313 /* NavigationListApp.swift */,
 				837A451B29C8AA360089E313 /* ContentView.swift */,
+				837A452729C9CAE60089E313 /* AnimalDetail.swift */,
 				837A451D29C8AA390089E313 /* Assets.xcassets */,
 				837A451F29C8AA390089E313 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				837A452829C9CAE60089E313 /* AnimalDetail.swift in Sources */,
 				837A451C29C8AA360089E313 /* ContentView.swift in Sources */,
 				837A451A29C8AA360089E313 /* NavigationListApp.swift in Sources */,
 			);
